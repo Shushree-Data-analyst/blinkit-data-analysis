@@ -17,7 +17,7 @@ This project performs end-to-end data analysis and machine learning on Blinkit s
 ---
 
 ## 🛠️ Tools & Technologies  
-Python | Pandas | NumPy | Seaborn | Power BI | Excel | Scikit-learn  
+Python | Pandas | NumPy | Seaborn | Power BI | Excel | 
 
 ---
 
